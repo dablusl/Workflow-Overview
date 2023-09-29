@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CometeSP.Models.Outbound.Enums
+namespace CometeSP.Models.Inbound
 {
-    public enum TruckType
+    internal class Osr
     {
-    }   
+    }
 }
